@@ -21,11 +21,10 @@
 
 ```yaml
 whoami: Sourav MS ("Appuzlota")
-based_in: India 🇮🇳
+based_in: India, kerala 🇮🇳
 currently: Contributing to products at 7Flow (https://www.7flow.tech)
 previously: Founded & sold HectorHosting — 2+ years deep in server hosting & infra
-philosophy: Not a "traditional" full-stack dev — dangerous enough with Python, JS,
-            and HTML/CSS to ship real things, faster, with AI as a co-pilot.
+philosophy: If it looks stupid but it works, it’s not stupid.
 when_not_coding: Deep in the Linux terminal, ricing my setup, or messing with hardware.
 status: Available for freelance work, bot building, or a good chat about Linux ricing.
 ```
@@ -33,7 +32,7 @@ status: Available for freelance work, bot building, or a good chat about Linux r
 - 🛠️ I build tools, automate the boring stuff, and prototype fast with AI
 - 🌐 Previously founded **HectorHosting**, a Minecraft server hosting & infra brand — sold after 2+ years of running it
 - 💻 Currently shipping product at **[7Flow](https://www.7flow.tech/)**
-- 🤖 Big on AI-assisted coding — Claude, Cursor & friends are basically part of my toolchain
+- 🤖 Big on AI-assisted coding — Antigravity, OpenCode & Codex are basically part of my toolchain
 - 🐧 Linux terminal dweller, virtualization tinkerer, forever learning
 
 <br/>
@@ -50,11 +49,11 @@ status: Available for freelance work, bot building, or a good chat about Linux r
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
-**AI & Assistants**
+**AI & Vibe Coding**
 <br/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Antigravity-000000?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCode-1e2327?style=flat-square&logo=gnometerminal&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI_Agents-FF5C5C?style=flat-square&logo=robotframework&logoColor=white"/>
 
 **Infra & Tools**
