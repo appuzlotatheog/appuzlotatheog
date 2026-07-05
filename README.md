@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5C5C,100:1e2327&height=220&section=header&text=Sourav%20MS&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=aka%20Appuzlota%20%7C%20Builder%20%C2%B7%20Vibe%20Coder%20%C2%B7%20SysAdmin&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5C5C,100:1e2327&height=220&section=header&text=Sourav%20MS&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=aka%20appuzlota%20%7C%20Builder%20%C2%B7%20Vibe%20Coder%20%C2%B7%20SysAdmin&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://appuzlota.me">
   <img src="https://readme-typing-svg.demolab.com/?lines=I+build+tools+and+break+things+in+Linux;I+leverage+AI+to+code+faster+%26+ship+better;Ex-founder+%40+HectorHosting+%F0%9F%9A%80;Currently+shipping+at+7Flow;Terminal+Dweller+%F0%9F%96%A5%EF%B8%8F&font=Fira+Code&center=true&width=650&height=45&color=FF5C5C&vCenter=true&size=22&pause=1500" alt="Typing SVG" />
