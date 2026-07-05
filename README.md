@@ -20,7 +20,7 @@
 ## 👋 About Me
 
 ```yaml
-whoami: Sourav MS ("Appuzlota")
+whoami: Sourav MS ("appuzlota")
 based_in: India, kerala 🇮🇳
 currently: Contributing to products at 7Flow (https://www.7flow.tech)
 previously: Founded & sold HectorHosting — 2+ years deep in server hosting & infra
