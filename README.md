@@ -77,7 +77,7 @@ I'm a self-taught developer based in India, currently building at **7Flow**. I p
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=appuzlotatheog&theme=dracula&no-frame=true&margin-w=8&row=1&column=6" />
+<img src="https://github-profile-repo.vercel.app/?username=appuzlotatheog&theme=dracula&no-frame=true&margin-w=8&row=1&column=6" />
 
 </div>
 
