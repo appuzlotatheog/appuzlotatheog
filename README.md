@@ -1,165 +1,136 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5C5C,100:1e2327&height=220&section=header&text=Sourav%20MS&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=aka%20appuzlota%20%7C%20Builder%20%C2%B7%20Vibe%20Coder%20%C2%B7%20SysAdmin&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F380F,50:306230,100:9BBC0F&height=230&section=header&text=APPUZLOTA.EXE&fontSize=50&fontColor=9BBC0F&fontAlignY=35&desc=%3E%3E%20PRESS%20START%20TO%20CONTINUE%20%3C%3C&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
 
-<a href="https://appuzlota.me">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+build+tools+and+break+things+in+Linux;I+leverage+AI+to+code+faster+%26+ship+better;Ex-founder+%40+HectorHosting+%F0%9F%9A%80;Currently+shipping+at+7Flow;Terminal+Dweller+%F0%9F%96%A5%EF%B8%8F&font=Fira+Code&center=true&width=650&height=45&color=FF5C5C&vCenter=true&size=22&pause=1500" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=2800&pause=900&color=8BAC0F&center=true&vCenter=true&width=700&height=100&lines=LOADING+PLAYER+DATA...;CLASS%3A+FULL-STACK+VIBE+CODER;GUILD%3A+7FLOW;EX-GUILD%3A+HECTORHOSTING+%28SOLD%29;STATUS%3A+LINUX+TERMINAL+DWELLER" />
 
-<br/>
-
-<a href="https://appuzlota.me"><img src="https://img.shields.io/badge/Portfolio-appuzlota.me-FF5C5C?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-<a href="https://twitter.com/appuzlota"><img src="https://img.shields.io/badge/Twitter-@appuzlota-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://appuzlota.me/linkedin.html"><img src="https://img.shields.io/badge/LinkedIn-appuzlota-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:hello@appuzlota.me"><img src="https://img.shields.io/badge/Email-hello@appuzlota.me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 
 </div>
 
 <br/>
 
-## 👋 About Me
+## 🕹️ CHARACTER SHEET
 
-```yaml
-whoami: Sourav MS ("appuzlota")
-based_in: India, kerala 🇮🇳
-currently: Contributing to products at 7Flow (https://www.7flow.tech)
-previously: Founded & sold HectorHosting — 2+ years deep in server hosting & infra
-philosophy: If it looks stupid but it works, it’s not stupid.
-when_not_coding: Deep in the Linux terminal, ricing my setup, or messing with hardware.
-status: Available for freelance work, bot building, or a good chat about Linux ricing.
 ```
-
-- 🛠️ I build tools, automate the boring stuff, and prototype fast with AI
-- 🌐 Previously founded **HectorHosting**, a Minecraft server hosting & infra brand — sold after 2+ years of running it
-- 💻 Currently shipping product at **[7Flow](https://www.7flow.tech/)**
-- 🤖 Big on AI-assisted coding — Antigravity, OpenCode & Codex are basically part of my toolchain
-- 🐧 Linux terminal dweller, virtualization tinkerer, forever learning
-
-<br/>
-
-## 🧰 Tech Stack
+╔══════════════════════════════════════════════╗
+║  PLAYER  : Sourav MS  ("Appuzlota")           ║
+║  CLASS   : Full-Stack Vibe Coder              ║
+║  LEVEL   : ∞  (still grinding)                ║
+║  GUILD   : 7Flow                              ║
+║  LEGACY  : Founder, HectorHosting (sold)      ║
+║  REGION  : India 🇮🇳                          ║
+║  PLAYSTYLE : AI-assisted speedrunning         ║
+╚══════════════════════════════════════════════╝
+```
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-
-**AI & Vibe Coding**
-<br/>
-<img src="https://img.shields.io/badge/Antigravity-000000?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCode-1e2327?style=flat-square&logo=gnometerminal&logoColor=white"/>
-<img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI_Agents-FF5C5C?style=flat-square&logo=robotframework&logoColor=white"/>
-
-**Infra & Tools**
-<br/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+| STAT | BAR | VALUE |
+|:---|:---|:---:|
+| ❤️ HP — Motivation | 🟥🟥🟥🟥🟥🟥🟥🟥🟥⬛ | 90/100 |
+| 🔷 MP — Caffeine | 🟦🟦🟦🟦🟦🟦🟦⬛⬛⬛ | 70/100 |
+| ⭐ XP — AI-Assisted Coding | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 | MAX |
+| 🐧 STR — Linux Terminal | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 | 100/100 |
 
 </div>
 
 <br/>
 
-## 🚀 Featured Projects
+## 🌳 SKILL TREE
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 [HyprDash](https://github.com/appuzlotatheog/hyprdash-panel)
-Open-source game server management panel with real-time monitoring, file management, backups, multi-node support, 2FA & subuser permissions.
-
-`React` `Node.js` `TypeScript` `Socket.IO`
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Discord Architect
-AI-powered Discord bot that generates full server structures — channels, roles, permissions — from a plain-text description.
-
-`Discord.js` `Python` `Automation`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 Solva.Space
-High-performance e-commerce storefront with Stripe integration, responsive product galleries, and sub-second load times.
-
-`E-Commerce` `Stripe API` `Web Dev`
-
-</td>
-<td width="50%" valign="top">
-
-### ⛏️ [usForever](https://github.com/appuzlotatheog/usForever)
-A Minecraft companion bot that grinds resources, builds bases, and plays alongside (or for) you when you're offline.
-
-`JavaScript` `Minecraft` `Automation`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 [PolyPulse Bot](https://github.com/appuzlotatheog/polypulse-bot)
-Professional high-frequency arbitrage bot for Polymarket, v2.0.
-
-`Python` `Trading` `Automation`
-
-</td>
-<td width="50%" valign="top">
-
-### 🕵️ [AnyHack](https://github.com/appuzlotatheog/AnyHack)
-A pentesting toolkit for security research and experimentation.
-
-`Shell` `Security`
-
-</td>
-</tr>
+<table align="center">
+<tr><th>SKILL</th><th>MASTERY</th></tr>
+<tr><td>🐍 Python</td><td>🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛ 80%</td></tr>
+<tr><td>🟨 JavaScript</td><td>🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛ 70%</td></tr>
+<tr><td>🔷 TypeScript</td><td>🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛ 60%</td></tr>
+<tr><td>🌐 HTML/CSS</td><td>🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛ 80%</td></tr>
+<tr><td>🐧 Linux</td><td>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100%</td></tr>
+<tr><td>🖥️ Server Infra</td><td>🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛ 90%</td></tr>
 </table>
 
 <div align="center">
-<sub>See more on the <a href="https://appuzlota.me/#work">portfolio work page →</a></sub>
-</div>
 
-<br/>
+**🔓 SPECIAL ITEMS UNLOCKED — AI Toolkit**
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=appuzlotatheog&show_icons=true&theme=radical&hide_border=true&bg_color=1e2327&title_color=FF5C5C&icon_color=FF5C5C&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=appuzlotatheog&theme=radical&hide_border=true&background=1e2327&ring=FF5C5C&fire=FF5C5C&currStreakLabel=FF5C5C" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=appuzlotatheog&layout=compact&theme=radical&hide_border=true&bg_color=1e2327&title_color=FF5C5C&text_color=c9d1d9" height="165"/>
+<img src="https://img.shields.io/badge/Antigravity-0F380F?style=for-the-badge&logo=google&logoColor=9BBC0F"/>
+<img src="https://img.shields.io/badge/OpenCode-306230?style=for-the-badge&logo=gnometerminal&logoColor=9BBC0F"/>
+<img src="https://img.shields.io/badge/Codex-0F380F?style=for-the-badge&logo=openai&logoColor=9BBC0F"/>
+<img src="https://img.shields.io/badge/AI_Agents-306230?style=for-the-badge&logo=robotframework&logoColor=9BBC0F"/>
 
 </div>
 
 <br/>
 
-## 📫 Let's Connect
+## 📜 QUEST LOG
+
+```
+✅ [COMPLETED]   HyprDash — open-source game server panel
+                 ↳ Reward: React + Node.js + TypeScript XP
+
+⚔️ [IN PROGRESS] Discord Architect — AI-generated Discord server builder
+                 ↳ Reward: Discord.js + Python XP
+
+✅ [COMPLETED]   Solva.Space — e-commerce storefront w/ Stripe
+                 ↳ Reward: Payments + Performance XP
+
+🔄 [ONGOING]     usForever — Minecraft companion bot
+                 ↳ Reward: Game Automation XP
+
+⚡ [ACTIVE]      PolyPulse Bot v2.0 — Polymarket arbitrage bot
+                 ↳ Reward: Trading Systems XP
+
+🛡️ [SIDE QUEST]  AnyHack — pentesting toolkit
+                 ↳ Reward: Security Research XP
+```
+
+<div align="center"><sub>Full quest archive → <a href="https://appuzlota.me/#work">appuzlota.me</a></sub></div>
+
+<br/>
+
+## 🏆 ACHIEVEMENTS UNLOCKED
 
 <div align="center">
 
-Available for freelance projects, bot building, or just a chat about Linux ricing.
+<img src="https://img.shields.io/badge/🏆_Founded_%26_Sold_a_Startup-0F380F?style=for-the-badge&logoColor=9BBC0F"/>
+<img src="https://img.shields.io/badge/🐧_Linux_Terminal_Dweller-306230?style=for-the-badge&logoColor=9BBC0F"/>
+<img src="https://img.shields.io/badge/🤖_Co--op_Mode%3A_AI_Enabled-0F380F?style=for-the-badge&logoColor=9BBC0F"/>
 
-<a href="https://appuzlota.me"><img src="https://img.shields.io/badge/🌐_Portfolio-appuzlota.me-FF5C5C?style=for-the-badge"/></a>
-<a href="mailto:hello@appuzlota.me"><img src="https://img.shields.io/badge/✉️_Email-hello@appuzlota.me-1e2327?style=for-the-badge"/></a>
+</div>
+
+<br/>
+
+## 📊 STATUS SCREEN
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=appuzlotatheog&show_icons=true&hide_border=true&bg_color=0F380F&title_color=9BBC0F&icon_color=8BAC0F&text_color=8BAC0F" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=appuzlotatheog&hide_border=true&background=0F380F&ring=9BBC0F&fire=9BBC0F&currStreakLabel=9BBC0F&sideLabels=8BAC0F&currStreakNum=9BBC0F&sideNums=8BAC0F&dates=8BAC0F" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=appuzlotatheog&layout=compact&hide_border=true&bg_color=0F380F&title_color=9BBC0F&text_color=8BAC0F" height="165"/>
+
+</div>
+
+<br/>
+
+## 🎮 CONTINUE?
+
+<div align="center">
+
+```
+INSERT COIN TO CONTINUE
+[ Y ]  hello@appuzlota.me
+```
+
+<a href="https://appuzlota.me"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-0F380F?style=for-the-badge&logoColor=9BBC0F"/></a>
+<a href="mailto:hello@appuzlota.me"><img src="https://img.shields.io/badge/✉️_EMAIL-306230?style=for-the-badge&logoColor=9BBC0F"/></a>
+<a href="https://twitter.com/appuzlota"><img src="https://img.shields.io/badge/🐦_TWITTER-0F380F?style=for-the-badge&logoColor=9BBC0F"/></a>
+<a href="https://appuzlota.me/linkedin.html"><img src="https://img.shields.io/badge/💼_LINKEDIN-306230?style=for-the-badge&logoColor=9BBC0F"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:FF5C5C&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9BBC0F,50:306230,100:0F380F&height=100&section=footer" width="100%"/>
+
+<sub>🕹️ GAME OVER — but the code never sleeps. Thanks for scrolling to the credits.</sub>
 
 </div>
