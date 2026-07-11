@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F380F,50:306230,100:9BBC0F&height=230&section=header&text=APPUZLOTA.EXE&fontSize=50&fontColor=9BBC0F&fontAlignY=35&desc=%3E%3E%20PRESS%20START%20TO%20CONTINUE%20%3C%3C&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
+# 🕹️ APPUZLOTA.EXE
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=2800&pause=900&color=8BAC0F&center=true&vCenter=true&width=700&height=100&lines=LOADING+PLAYER+DATA...;CLASS%3A+FULL-STACK+VIBE+CODER;GUILD%3A+7FLOW;EX-GUILD%3A+HECTORHOSTING+%28SOLD%29;STATUS%3A+LINUX+TERMINAL+DWELLER" />
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=13&duration=2800&pause=900&color=8BAC0F&center=true&vCenter=true&width=700&height=90&lines=NEW+GAME+%E2%80%94+LOADING+SAVE+FILE...;CLASS%3A+FULL-STACK+VIBE+CODER;GUILD%3A+7FLOW;EX-GUILD%3A+HECTORHOSTING+%28SOLD%29" />
 
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+
+<br/>
+
+### 🎮 PLAYER ONE — SPAWN POINT
+
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=appuzlotatheog&theme=journey&dithering=true" alt="pixel art hero card" width="100%"/>
 
 </div>
 
@@ -88,26 +94,26 @@
 
 <br/>
 
-## 🏆 ACHIEVEMENTS UNLOCKED
+## 👾 FINAL BOSS — TERMINAL STATS
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🏆_Founded_%26_Sold_a_Startup-0F380F?style=for-the-badge&logoColor=9BBC0F"/>
-<img src="https://img.shields.io/badge/🐧_Linux_Terminal_Dweller-306230?style=for-the-badge&logoColor=9BBC0F"/>
-<img src="https://img.shields.io/badge/🤖_Co--op_Mode%3A_AI_Enabled-0F380F?style=for-the-badge&logoColor=9BBC0F"/>
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=appuzlotatheog&theme=crt&screen_effect=true" alt="pixel art CRT stats card" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=appuzlotatheog&hide_border=true&background=0F380F&ring=9BBC0F&fire=9BBC0F&currStreakLabel=9BBC0F&sideLabels=8BAC0F&currStreakNum=9BBC0F&sideNums=8BAC0F&dates=8BAC0F" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=appuzlotatheog&layout=compact&hide_border=true&bg_color=0F380F&title_color=9BBC0F&text_color=8BAC0F" height="165"/>
 
 </div>
 
 <br/>
 
-## 📊 STATUS SCREEN
+## 🏆 REAL TROPHIES (live from GitHub)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=appuzlotatheog&show_icons=true&hide_border=true&bg_color=0F380F&title_color=9BBC0F&icon_color=8BAC0F&text_color=8BAC0F" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=appuzlotatheog&hide_border=true&background=0F380F&ring=9BBC0F&fire=9BBC0F&currStreakLabel=9BBC0F&sideLabels=8BAC0F&currStreakNum=9BBC0F&sideNums=8BAC0F&dates=8BAC0F" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=appuzlotatheog&layout=compact&hide_border=true&bg_color=0F380F&title_color=9BBC0F&text_color=8BAC0F" height="165"/>
+<img src="https://github-profile-trophy.vercel.app/?username=appuzlotatheog&theme=dracula&no-frame=true&margin-w=8&row=1&column=6" />
 
 </div>
 
@@ -129,7 +135,7 @@ INSERT COIN TO CONTINUE
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9BBC0F,50:306230,100:0F380F&height=100&section=footer" width="100%"/>
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 
 <sub>🕹️ GAME OVER — but the code never sleeps. Thanks for scrolling to the credits.</sub>
 
